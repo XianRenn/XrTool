@@ -1,0 +1,2 @@
+include ':XrBase'
+rootProject.name = "XrTool"
